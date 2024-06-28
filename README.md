@@ -22,8 +22,8 @@ Base-de-algorimitmos-em-C_v2
 - somade2matrizes.c
 
 Base-de-algorimitmos-em-C
-- ifcom08.c
-- whilepratica06.c
-- whilepratica05.c
-- candidato.c
+- ifcom08.c✅
+- whilepratica06.c✅
+- whilepratica05.c✅
+- candidato.c✅
 - Imposto de Renda.c
