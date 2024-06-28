@@ -1,21 +1,10 @@
+from commons import get_valid_input
+
 def calculate_monthly_salary(
         daily_hours: int,
         hour_value: float,
         days_worked: int) -> float :
     return daily_hours * hour_value * days_worked
-    
-def get_valid_input(prompt: str, type: object) -> object:
-    """Asks user for input until a valid value is given."""
-
-    is_valid_input = False
-    while not is_valid_input:
-        try:
-            user_input = type(input(prompt))
-            is_valid_input = True
-        except ValueError:
-            print("Entrada inválida. Tente novamente!")
-    
-    return user_input
 
 if __name__ == '__main__':
     daily_hours = get_valid_input(
