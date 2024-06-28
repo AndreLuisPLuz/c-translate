@@ -1,4 +1,12 @@
-from commons import get_valid_input
+import sys
+import os
+import inspect
+
+current_dir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+root_dir = os.path.dirname(os.path.realpath(current_dir))
+sys.path.append(root_dir)
+
+from commons import get_valid_input  # noqa: E402
 
 def calculate_monthly_salary(
         daily_hours: int,
