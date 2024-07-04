@@ -15,15 +15,15 @@ Base-de-algorimitmos-em-C-v3
 - recursividade2lista.c
 
 Base-de-algorimitmos-em-C_v2
-- internetifcomfor.c
-- listacondicional1.c
-- matriz13.c
-- revisao1.c
-- somade2matrizes.c
+- internetifcomfor.c ✅
+- listacondicional1.c✅
+- matriz13.c✅
+- revisao1.c✅
+- somade2matrizes.c✅
 
 Base-de-algorimitmos-em-C
 - ifcom08.c✅
 - whilepratica06.c✅
 - whilepratica05.c✅
 - candidato.c✅
-- Imposto de Renda.c
+- Imposto de Renda.c ✅
