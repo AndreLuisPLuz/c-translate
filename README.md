@@ -8,11 +8,11 @@ aula prática 21 ao 26 (6 códigos)
 # Exercícios da Dayne
 
 Base-de-algorimitmos-em-C-v3
-- EX_01.c
-- EX_02.c
-- EX_04.c
-- par_imparPARAMETRO.c
-- recursividade2lista.c
+- EX_01.c✅
+- EX_02.c✅
+- EX_04.c✅
+- par_imparPARAMETRO.c✅
+- recursividade2lista.c✅
 
 Base-de-algorimitmos-em-C_v2
 - internetifcomfor.c ✅
